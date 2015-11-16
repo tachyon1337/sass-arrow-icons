@@ -1,3 +1,3 @@
-SASS Template
+Arrow Icons
 ===========================
 
