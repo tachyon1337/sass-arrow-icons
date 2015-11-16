@@ -1,0 +1,524 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M1331.158 817.649l-448.249-448.247-448.249 448.237-81.497-81.497 529.745-529.745 529.745 529.745z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1766,
+				"tags": [
+					"arrows-up"
+				],
+				"defaultCode": 57760,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 3,
+				"order": 196,
+				"prevSize": 32,
+				"code": 57760,
+				"name": "arrows-up"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 0
+		},
+		{
+			"icon": {
+				"paths": [
+					"M434.671 206.397l448.246 448.249 448.252-448.24 81.494 81.5-529.745 529.744-529.743-529.744z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1766,
+				"tags": [
+					"arrows-down"
+				],
+				"defaultCode": 57762,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 4,
+				"order": 197,
+				"prevSize": 32,
+				"code": 57762,
+				"name": "arrows-down"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 1
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1188.54 63.772l-448.247 448.249 448.237 448.246-81.497 81.498-529.744-529.744 529.744-529.747z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1766,
+				"tags": [
+					"arrows-left"
+				],
+				"defaultCode": 57759,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 5,
+				"order": 198,
+				"prevSize": 32,
+				"code": 57759,
+				"name": "arrows-left"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 2
+		},
+		{
+			"icon": {
+				"paths": [
+					"M577.299 63.772l448.244 448.249-448.237 448.246 81.497 81.498 529.745-529.744-529.745-529.747z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1766,
+				"tags": [
+					"arrows-right"
+				],
+				"defaultCode": 57763,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 6,
+				"order": 199,
+				"prevSize": 32,
+				"code": 57763,
+				"name": "arrows-right"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 3
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1470.733 819.036l-523.097-523.095-523.095 523.084-45.487-45.475 568.582-568.583 568.572 568.583z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1895,
+				"tags": [
+					"arrows-up-thin"
+				],
+				"defaultCode": 57766,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 7,
+				"order": 200,
+				"prevSize": 32,
+				"code": 57766,
+				"name": "arrows-up-thin"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 4
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1470.733 204.966l-523.097 523.095-523.095-523.084-45.487 45.475 568.582 568.583 568.572-568.583z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1895,
+				"tags": [
+					"arrows-down-thin"
+				],
+				"defaultCode": 57765,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 9,
+				"order": 202,
+				"prevSize": 32,
+				"code": 57765,
+				"name": "arrows-down-thin"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 5
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1254.671 1035.095l-523.095-523.095 523.085-523.095-45.476-45.487-568.582 568.582 568.582 568.572z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1895,
+				"tags": [
+					"arrows-left-thin"
+				],
+				"defaultCode": 57767,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 8,
+				"order": 201,
+				"prevSize": 32,
+				"code": 57767,
+				"name": "arrows-left-thin"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 6
+		},
+		{
+			"icon": {
+				"paths": [
+					"M640.602 1035.095l523.095-523.095-523.085-523.095 45.476-45.487 568.582 568.582-568.582 568.572z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1895,
+				"tags": [
+					"arrows-right-thin"
+				],
+				"defaultCode": 57768,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 10,
+				"order": 203,
+				"prevSize": 32,
+				"code": 57768,
+				"name": "arrows-right-thin"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 7
+		},
+		{
+			"icon": {
+				"paths": [
+					"M768 190.528l-460.8 460.8 153.558 153.686 307.242-307.244 307.242 307.244 153.558-153.686-460.8-460.8z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1536,
+				"tags": [
+					"arrows-up-bold"
+				],
+				"defaultCode": 57770,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 12,
+				"order": 206,
+				"prevSize": 32,
+				"code": 57770,
+				"name": "arrows-up-bold"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 8
+		},
+		{
+			"icon": {
+				"paths": [
+					"M768 805.014l-460.8-460.8 153.558-153.686 307.242 307.242 307.242-307.242 153.558 153.686-460.8 460.8z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1536,
+				"tags": [
+					"arrows-down-bold"
+				],
+				"defaultCode": 57769,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 11,
+				"order": 205,
+				"prevSize": 32,
+				"code": 57769,
+				"name": "arrows-down-bold"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 9
+		},
+		{
+			"icon": {
+				"paths": [
+					"M460.758 497.77l460.8-460.8 153.684 153.558-307.242 307.242 307.242 307.244-153.684 153.556-460.8-460.8z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1536,
+				"tags": [
+					"arrows-left-bold"
+				],
+				"defaultCode": 57594,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 14,
+				"order": 208,
+				"prevSize": 32,
+				"code": 57594,
+				"name": "arrows-left-bold"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 10
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1075.242 497.77l-460.8 460.8-153.684-153.556 307.242-307.244-307.242-307.242 153.684-153.558 460.8 460.8z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 1536,
+				"tags": [
+					"arrows-right-bold"
+				],
+				"defaultCode": 57593,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 13,
+				"order": 207,
+				"prevSize": 32,
+				"code": 57593,
+				"name": "arrows-right-bold"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 11
+		},
+		{
+			"icon": {
+				"paths": [
+					"M125.632 1005.844h-140.204l448.98-987.663h124.097l450.948 987.663h-140.288l-373.622-802.179-369.913 802.179z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 995,
+				"tags": [
+					"arrows-up-narrow"
+				],
+				"defaultCode": 57752,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 1,
+				"order": 209,
+				"prevSize": 32,
+				"code": 57752,
+				"name": "arrows-up-narrow"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 12
+		},
+		{
+			"icon": {
+				"paths": [
+					"M869.251 18.182h140.204l-448.982 987.663h-124.097l-450.948-987.663h140.288l373.622 802.18 369.914-802.18z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 995,
+				"tags": [
+					"arrows-down-narrow"
+				],
+				"defaultCode": 57753,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 2,
+				"order": 195,
+				"prevSize": 32,
+				"code": 57753,
+				"name": "arrows-down-narrow"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 13
+		},
+		{
+			"icon": {
+				"paths": [
+					"M991.273 883.823v140.204l-987.663-448.98v-124.097l987.663-450.948v140.288l-802.18 373.622 802.18 369.913z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 995,
+				"tags": [
+					"arrows-left-narrow"
+				],
+				"defaultCode": 57720,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 0,
+				"order": 210,
+				"prevSize": 32,
+				"code": 57720,
+				"name": "arrows-left-narrow"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 14
+		},
+		{
+			"icon": {
+				"paths": [
+					"M3.61 883.823v140.204l987.663-448.98v-124.097l-987.663-450.948v140.288l802.179 373.622-802.179 369.913z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"width": 995,
+				"tags": [
+					"arrows-right-narrow"
+				],
+				"defaultCode": 57721,
+				"grid": 0
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"id": 15,
+				"order": 204,
+				"prevSize": 32,
+				"code": 57721,
+				"name": "arrows-right-narrow"
+			},
+			"setIdx": 0,
+			"setId": 17,
+			"iconIdx": 15
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "arrows"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "arrows",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"showSelector": false,
+			"showMetrics": false,
+			"embed": false,
+			"cssVars": true,
+			"showMetadata": false,
+			"showVersion": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215
+		},
+		"historySize": 100,
+		"showCodes": false,
+		"gridSize": 16
+	}
+}

@@ -1,0 +1,74 @@
+@font-face {
+	font-family: 'arrows';
+	src:url('fonts/arrows.eot?vrql0v');
+	src:url('fonts/arrows.eot?vrql0v#iefix') format('embedded-opentype'),
+		url('fonts/arrows.ttf?vrql0v') format('truetype'),
+		url('fonts/arrows.woff?vrql0v') format('woff'),
+		url('fonts/arrows.svg?vrql0v#arrows') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'arrows';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrows-up:before {
+	content: "\e1a0";
+}
+.icon-arrows-down:before {
+	content: "\e1a2";
+}
+.icon-arrows-left:before {
+	content: "\e19f";
+}
+.icon-arrows-right:before {
+	content: "\e1a3";
+}
+.icon-arrows-up-thin:before {
+	content: "\e1a6";
+}
+.icon-arrows-down-thin:before {
+	content: "\e1a5";
+}
+.icon-arrows-left-thin:before {
+	content: "\e1a7";
+}
+.icon-arrows-right-thin:before {
+	content: "\e1a8";
+}
+.icon-arrows-up-bold:before {
+	content: "\e1aa";
+}
+.icon-arrows-down-bold:before {
+	content: "\e1a9";
+}
+.icon-arrows-left-bold:before {
+	content: "\e0fa";
+}
+.icon-arrows-right-bold:before {
+	content: "\e0f9";
+}
+.icon-arrows-up-narrow:before {
+	content: "\e198";
+}
+.icon-arrows-down-narrow:before {
+	content: "\e199";
+}
+.icon-arrows-left-narrow:before {
+	content: "\e178";
+}
+.icon-arrows-right-narrow:before {
+	content: "\e179";
+}
+
