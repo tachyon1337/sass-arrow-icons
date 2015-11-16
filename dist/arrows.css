@@ -1,15 +1,15 @@
 @font-face {
 	font-family: 'arrows';
-	src:url('fonts/arrows.eot?vrql0v');
-	src:url('fonts/arrows.eot?vrql0v#iefix') format('embedded-opentype'),
-		url('fonts/arrows.ttf?vrql0v') format('truetype'),
-		url('fonts/arrows.woff?vrql0v') format('woff'),
-		url('fonts/arrows.svg?vrql0v#arrows') format('svg');
+	src:url('fonts/arrows.eot?6cjnxi');
+	src:url('fonts/arrows.eot?6cjnxi#iefix') format('embedded-opentype'),
+		url('fonts/arrows.ttf?6cjnxi') format('truetype'),
+		url('fonts/arrows.woff?6cjnxi') format('woff'),
+		url('fonts/arrows.svg?6cjnxi#arrows') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="icon-arrows"], [class*=" icon-arrows"] {
 	font-family: 'arrows';
 	speak: none;
 	font-style: normal;
@@ -17,6 +17,7 @@
 	font-variant: normal;
 	text-transform: none;
 	line-height: 1;
+	font-size:32px;
 
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
@@ -70,5 +71,29 @@
 }
 .icon-arrows-right-narrow:before {
 	content: "\e179";
+}
+.icon-arrows-up-caret:before {
+	content: "\e900";
+}
+.icon-arrows-down-caret:before {
+	content: "\e901";
+}
+.icon-arrows-left-caret:before {
+	content: "\e902";
+}
+.icon-arrows-right-caret:before {
+	content: "\e903";
+}
+.icon-arrows-up-drop:before {
+	content: "\e904";
+}
+.icon-arrows-down-drop:before {
+	content: "\e905";
+}
+.icon-arrows-left-drop:before {
+	content: "\e906";
+}
+.icon-arrows-right-drop:before {
+	content: "\e907";
 }
 

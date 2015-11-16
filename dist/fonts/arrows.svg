@@ -23,4 +23,12 @@
 <glyph unicode="&#xe1a8;" glyph-name="arrows-right-thin" horiz-adv-x="1895" d="M640.602-75.095l523.095 523.095-523.085 523.095 45.476 45.487 568.582-568.582-568.582-568.572z" />
 <glyph unicode="&#xe1a9;" glyph-name="arrows-down-bold" horiz-adv-x="1536" d="M768 154.986l-460.8 460.8 153.558 153.686 307.242-307.242 307.242 307.242 153.558-153.686-460.8-460.8z" />
 <glyph unicode="&#xe1aa;" glyph-name="arrows-up-bold" horiz-adv-x="1536" d="M768 769.472l-460.8-460.8 153.558-153.686 307.242 307.244 307.242-307.244 153.558 153.686-460.8 460.8z" />
+<glyph unicode="&#xe900;" glyph-name="arrows-up-caret" d="M896 128l-384 640-384-640z" />
+<glyph unicode="&#xe901;" glyph-name="arrows-down-caret" d="M128 768l384-640 384 640z" />
+<glyph unicode="&#xe902;" glyph-name="arrows-left-caret" d="M832 64l-640 384 640 384z" />
+<glyph unicode="&#xe903;" glyph-name="arrows-right-caret" d="M192 64l640 384-640 384z" />
+<glyph unicode="&#xe904;" glyph-name="arrows-up-drop" d="M0 192l512 512 512-512z" />
+<glyph unicode="&#xe905;" glyph-name="arrows-down-drop" d="M0 704l512-512 512 512z" />
+<glyph unicode="&#xe906;" glyph-name="arrows-left-drop" d="M768 960l-512-512 512-512z" />
+<glyph unicode="&#xe907;" glyph-name="arrows-right-drop" d="M256-64l512 512-512 512z" />
 </font></defs></svg>
